@@ -18,7 +18,7 @@ Key features:
 
 ## Installation
 
-Download the [latest release for MacOS](https://github.com/borisdivjak/ChanceMachine/raw/main/Release/ChanceMachine-1.0.0.pkg) and double click the .pkg file to start the installation. The installer should copy the VST and AU versions of the plugin into the respective folders:
+Download the [latest release for MacOS](https://github.com/borisdivjak/ChanceMachine/raw/v1.0.0/Release/ChanceMachine-1.0.0.pkg) and double click the .pkg file to start the installation. The installer should copy the VST and AU versions of the plugin into the respective folders:
 * /Library/Audio/Plug-Ins/VST
 * /Library/Audio/Plug-Ins/Components
 
